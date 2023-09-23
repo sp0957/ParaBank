@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="test" parallel="methods" thread-count="4">
+	<test name="test1">
+		<classes>
+			<class name="allModual.LoginPrallel"/>
+			
+		</classes>
+	</test>	
+</suite> 	
